@@ -1,0 +1,30 @@
+﻿<Page x:Class="Rozpoznawanie_znaków___Praca_dyplomowa.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Rozpoznawanie_znaków___Praca_dyplomowa"
+      mc:Ignorable="d"
+      Title="Page1" Height="473.6" Width="754">
+
+    <Grid Margin="-2,0,-0.4,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="102*"/>
+            <RowDefinition Height="55*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="btn_folder_png" Source="Main_Images/btn_Main.bmp" Stretch="Fill" RenderTransformOrigin="1.464,0.87" Margin="-16,-1,-1,2" Grid.RowSpan="2" HorizontalAlignment="Right" Width="765" OpacityMask="Black"/>
+        <RadioButton 
+                        x:Name="radioButton" HorizontalAlignment="Left" Content="Rozpoznawanie wideo" Margin="41,139,0,0" VerticalAlignment="Top" Width="312" Height="37" FontSize="15" Foreground="#FFF6F3F3" FontWeight="Bold"/>
+        <RadioButton 
+                        x:Name="radioButton_Copy" HorizontalAlignment="Center" Content="Rozpoznawanie zdjęcia" Margin="491,138,-14,0" VerticalAlignment="Top" Width="279" Height="73" FontSize="15" Foreground="#FFF4EEEE" FontWeight="Bold" IsChecked="True"/>
+        
+        <Label x:Name="welcomeLabel" Content="Witaj w programie :)" Foreground="White" Margin="165,62,188,0" VerticalAlignment="Top" Height="56" Width="403" FontSize="25" HorizontalAlignment="Center" HorizontalContentAlignment="Center"/>
+        
+        <Grid HorizontalAlignment="Left" Height="192" Margin="91,262,0,0" AllowDrop="True" DragDrop.Drop="Grid_Drop" DragDrop.DragEnter="Grid_DragEnter" VerticalAlignment="Top" Width="534" Background="#FFFAFAFA" Grid.RowSpan="2">
+            <Button x:Name="btn_OpenFileFrame" HorizontalAlignment="Left" Content="Wybierz Plik" Margin="193,147,0,4" Width="114" Height="Auto" RenderTransformOrigin="0.444,0.139" Click="btn_OpenFileFrame_Click"/>
+            <Image x:Name="btn_icon2" Source="Main_Images/btn_icon.png" Stretch="Fill" RenderTransformOrigin="1.464,0.87" Margin="0,44,251,104" HorizontalAlignment="Right" Width="54"/>
+            <Label x:Name="label" Content="Akceptujemy pliki: jpg, tif, png, gif, jpeg, bmp oraz mp4" HorizontalAlignment="Left" Margin="131,89,0,0" VerticalAlignment="Top" Foreground="#DD7A7D69" FontSize="10"/>
+        </Grid>
+        <Label x:Name="label1" Content="Wybierz co chcesz rozpoznać lub poprastu przeciągnij tutaj plik" HorizontalAlignment="Left" Margin="112,261,0,0" VerticalAlignment="Top" Height="53" Width="568" FontSize="16" FontWeight="Bold" Grid.RowSpan="2"/>
+    </Grid>
+</Page>

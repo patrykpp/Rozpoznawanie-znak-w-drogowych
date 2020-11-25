@@ -1,0 +1,54 @@
+﻿<Page x:Class="Rozpoznawanie_znaków___Praca_dyplomowa.Error"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Rozpoznawanie_znaków___Praca_dyplomowa"
+      mc:Ignorable="d"
+      Title="Error" Width="787.6" Height="514.6">
+
+    <Grid Margin="0,99,-29,0">
+        <Grid HorizontalAlignment="Left" Height="506" Margin="3,-93,0,0" VerticalAlignment="Top" Width="782">
+            <Grid.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </Grid.Background>
+            <Grid HorizontalAlignment="Left" Height="514" Margin="171,-4,-1,-3" VerticalAlignment="Top" Width="612" Background="White" RenderTransformOrigin="0.5,0.5">
+                <Grid.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-0.385"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Grid.RenderTransform>
+                <Button x:Name="button" Content="Powrót" HorizontalAlignment="Left" Margin="21,457,0,0" VerticalAlignment="Top" Width="103" Click="button_Click" Height="43">
+                    <Button.BorderBrush>
+                        <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+                    </Button.BorderBrush>
+                </Button>
+                <TextBlock x:Name="textBlock" HorizontalAlignment="Left" TextAlignment="Center" Margin="29,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="206" Width="555" FontSize="22" RenderTransformOrigin="0.5,0.5" Foreground="#FF695454">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="0.094"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform><Run FontWeight="Bold" Text=""/><LineBreak/><Run FontWeight="Bold"/><LineBreak/><Run Text="Dopuszczalne rozszerzenia plików to: "/><Run FontStyle="Italic"/><LineBreak/><Run FontWeight="Bold" FontStyle="Italic" FontSize="18" Text="Zdjęcia"/><Run FontStyle="Italic" FontSize="18" Text=": "/><Run Foreground="#FF21CE36" FontStyle="Italic" FontSize="18" Text="png, gif, bmp, jpg, jpeg"/><LineBreak/><Run FontWeight="Bold" FontStyle="Italic" FontSize="18" Text="Wideo"/><Run FontStyle="Italic" FontSize="18" Text=": "/><Run Foreground="#FF21CE36" FontStyle="Italic" FontSize="18" Text="mp4"/><LineBreak/><LineBreak/><Hyperlink Click="Hyperlink_Click"><Run Text="Wybierz inny plik"/></Hyperlink></TextBlock>
+                <Image x:Name="image" HorizontalAlignment="Left" Height="180" Margin="189,334,0,0" VerticalAlignment="Top" Width="253" Source="Main_Images/emt_smile.png" RenderTransformOrigin="0.5,0.5">
+                    <Image.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="0.375"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Image.RenderTransform>
+                </Image>
+                <Label x:Name="label1" Content="Nieprawidłowe rozszerznie pliku" HorizontalAlignment="Left" Margin="75,32,0,0" VerticalAlignment="Top" FontSize="32"/>
+            </Grid>
+            <Label x:Name="label" Content="Pomoc" HorizontalAlignment="Left" Margin="35,226,0,0" VerticalAlignment="Top" Height="63" Width="132" Foreground="#DDF7F7F7" FontSize="30" RenderTransformOrigin="0.134,0.541"/>
+        </Grid>
+
+    </Grid>
+</Page>

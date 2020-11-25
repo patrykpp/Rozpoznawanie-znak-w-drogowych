@@ -1,0 +1,67 @@
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\App.g.cs
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Rozpoznawanie znaków - Praca dyplomowa_MarkupCompile.cache
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\Rozpoznawanie znaków - Praca dyplomowa.exe.config
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\Rozpoznawanie znaków - Praca dyplomowa.exe
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\Rozpoznawanie znaków - Praca dyplomowa.pdb
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\Emgu.CV.UI.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\Emgu.CV.World.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\ZedGraph.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\Emgu.CV.UI.xml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\Emgu.CV.World.xml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\ZedGraph.xml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\de\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\es\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\fr\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\hu\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\it\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\ja\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\pt\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\ru\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\sk\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\sv\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\tr\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\MainWindow.g.cs
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Rozpoznawanie znaków - Praca dyplomowa_MarkupCompile.lref
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\MainWindow.baml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Rozpoznawanie znaków - Praca dyplomowa.g.resources
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Rozpoznawanie_znaków___Praca_dyplomowa.Properties.Resources.resources
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Rozpoznawanie znaków - Praca dyplomowa.csproj.GenerateResource.Cache
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Rozpoznawanie znaków - Praca dyplomowa.exe
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Rozpoznawanie znaków - Praca dyplomowa.pdb
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\MaterialDesignColors.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\App.baml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\page1.g.cs
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\page1.baml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Page2.g.cs
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Page2.baml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\ByMe.g.cs
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\ByMe.baml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\LogWindow.g.cs
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\LogWindow.baml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\OpenTK.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\OpenTK.GLControl.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\OpenTK.xml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\OpenTK.GLControl.xml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\x64\concrt140.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\x64\cvextern.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\x64\msvcp140.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\x64\vcruntime140.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\x86\concrt140.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\x86\cvextern.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\x86\msvcp140.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\x86\vcruntime140.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Rozpoznawanie znaków - Praca dyplomowa_Content.g.cs
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Error.g.cs
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Error.baml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Page3.g.cs
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Page3.baml
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Interop.WMPLib.dll
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\obj\Debug\Rozpoznawanie znaków - Praca dyplomowa.csproj.ResolveComReference.cache
+C:\PRACA DYPLOMOWA mgr\Rozpoznawanie znaków - Praca dyplomowa\Rozpoznawanie znaków - Praca dyplomowa\bin\Debug\XamlAnimatedGif.dll

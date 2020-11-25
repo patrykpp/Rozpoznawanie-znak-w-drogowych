@@ -1,0 +1,55 @@
+﻿<Page x:Class="Rozpoznawanie_znaków___Praca_dyplomowa.ByMe"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Rozpoznawanie_znaków___Praca_dyplomowa"
+      mc:Ignorable="d"
+      Title="ByMe" Width="787.6" Height="514.6">
+
+    <Grid Margin="0,99,-29,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="141*"/>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="235*"/>
+        </Grid.ColumnDefinitions>
+        <Grid HorizontalAlignment="Left" Height="507" Margin="3,-93,0,0" VerticalAlignment="Top" Width="782" Grid.ColumnSpan="4">
+            <Grid.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </Grid.Background>
+            <Grid HorizontalAlignment="Left" Height="514" Margin="171,-4,-1,-3" VerticalAlignment="Top" Width="612" Background="White" RenderTransformOrigin="0.5,0.5">
+                <Grid.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-0.385"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Grid.RenderTransform>
+                <Button x:Name="button" Content="Powrót" HorizontalAlignment="Left" Margin="13,470,0,0" VerticalAlignment="Top" Width="85" Click="Exit_Click">
+                    <Button.BorderBrush>
+                        <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+                    </Button.BorderBrush>
+                </Button>
+                <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="24,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="426" Width="555" FontSize="22" RenderTransformOrigin="0.5,0.5">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="0.094"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform><Run Foreground="#FFB81BCD" FontWeight="Bold" FontSize="25" Text="SignDetector v1"/><Run Foreground="#FFB81BCD" FontWeight="Bold" FontSize="25" Text=".0"/><LineBreak/><InlineUIContainer>
+                        <Image
+                            Width="82" Source="Main_Images/btn_sign.png" x:Name="img_logo" Height="65"/>
+                    </InlineUIContainer><InlineUIContainer>
+                        <Label x:Name="label_Name" Content="Autor: Patryk Pieczara" FontWeight="Bold" Height="56"/>
+                    </InlineUIContainer><LineBreak/><Run Foreground="#FF66CE26" Text="Aplikacja"/><Run Foreground="#FF66CE26" Text=" powstał"/><Run Foreground="#FF66CE26" Text="a"/><Run Foreground="#FF66CE26" Text=" w ramach pracy dyplomowej. "/><LineBreak/><Run/><LineBreak/><Run Text="Głównym celem aplikacji jest"/><Run Text=" rozpoznawania znaków drogowych."/><LineBreak/><Run Text="  "/><LineBreak/><Run Text="Aplikacja"/><Run Text=" do "/><Run Text="detekcji"/><Run Text=" wykorzystuj"/><Run Text="e bibliotekę EmguCV"/><Run Text=" oraz algorytm"/><Run Text="y"/><Run Text=" SURF"/><Run Text=", KAZE, SIFT"/><Run Text="."/><LineBreak/><Run/><LineBreak/><Run Text="Rozpoznawać możemy zarówno pojedynczy"/><Run Text=" obraz"/><Run Text=" jak również sekwencje wideo."/><LineBreak/><Run FontWeight="Bold" Text="W razie pytań proszę o k"/><Run FontWeight="Bold" Text="ontakt: "/><Hyperlink NavigateUri="mailto:p.pieczara@vp.pl?subject=SubjectExample&amp;body=BodyExample"><Run Text="p.pieczara@vp.pl"/></Hyperlink><Run/><LineBreak/><Run/><LineBreak/><Run Text="Patryk Pieczara"/></TextBlock>
+            </Grid>
+            <Label x:Name="label" Content="O Mnie &#xD;&#xA;" HorizontalAlignment="Left" Margin="20,226,0,0" VerticalAlignment="Top" Height="63" Width="126" Foreground="#DDF7F7F7" FontSize="30"/>
+        </Grid>
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="-360,340,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Page>

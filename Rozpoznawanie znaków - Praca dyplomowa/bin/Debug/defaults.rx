@@ -1,0 +1,10 @@
+algorythmType = 2;
+uniqThreshold = 0.653142857142856;
+videoSpeedDetection = 0;
+psnrIndex = 4.75428571428572;
+autoFiltering = 1;
+maskYellow = 1;
+maskBlue = 1;
+maskRed = 1;
+methodSerachValue = 2;
+imageSize = 55;
